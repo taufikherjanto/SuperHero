@@ -10,7 +10,6 @@
 *.userosscache
 *.sln.docstates
 .git
-.vs
 bin
 obj
 packages
